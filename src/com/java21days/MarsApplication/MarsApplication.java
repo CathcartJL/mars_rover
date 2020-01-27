@@ -23,3 +23,4 @@ class MarsApplication {
         spirit.showAttributes();
     }
 }
+

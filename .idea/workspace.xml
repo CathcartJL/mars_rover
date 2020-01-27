@@ -27,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/java21days/MarsApplication/MarsApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="506">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -55,11 +55,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-15" />
-    <option name="y" value="-15" />
-    <option name="width" value="1953" />
-    <option name="height" value="2093" />
+    <option name="width" value="1948" />
+    <option name="height" value="2075" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -76,58 +75,6 @@
               <item name="Java21_rover" type="b2602c69:ProjectViewProjectNode" />
               <item name="mars_rover" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Java21_rover" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mars_rover" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java21_rover" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mars_rover" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java21_rover" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mars_rover" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="java21days" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java21_rover" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mars_rover" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="java21days" type="462c0819:PsiDirectoryNode" />
-              <item name="MarsApplication" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java21_rover" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mars_rover" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="java21days" type="462c0819:PsiDirectoryNode" />
-              <item name="MarsApplication" type="462c0819:PsiDirectoryNode" />
-              <item name="MarsApplication" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="Java21_rover" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mars_rover" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="java21days" type="462c0819:PsiDirectoryNode" />
-              <item name="MarsRobot" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java21_rover" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mars_rover" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="java21days" type="462c0819:PsiDirectoryNode" />
-              <item name="MarsRobot" type="462c0819:PsiDirectoryNode" />
-              <item name="MarsRobot" type="1a9f42e2:ClassTreeNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -135,6 +82,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
@@ -188,22 +136,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580080972844</updated>
-      <workItem from="1580080977385" duration="4117000" />
+      <workItem from="1580080977385" duration="5269000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4117000" />
+    <option name="totallyTimeSpent" value="5269000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="781" height="837" extended-state="0" />
+    <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.51452285" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24949698" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -255,8 +203,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/java21days/MarsApplication/MarsApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="506">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
